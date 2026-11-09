@@ -14,7 +14,7 @@ public class Main {
             case 2 -> System.out.println("Has seleccionado: Mostrar contactos");
             case 3 -> System.out.println("Has seleccionado: Buscar contacto");
             case 4 -> System.out.println("Has seleccionado: Salir");
-            default -> System.out.println("Opción no válida"); vnbvv
+            default -> System.out.println("Opción no válida"); 
         }
     }
 }
